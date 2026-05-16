@@ -17,7 +17,7 @@ export default function Partners() {
     <section className="w-full py-16 md:py-24 lg:py-[145px]">
       <div className="max-w-[1440px] mx-auto px-4 md:px-8 lg:px-[90px]">
         {/* Title */}
-        <h2 className="font-['Melodrama',serif] text-[clamp(2rem,4.5vw,4rem)] text-black text-center uppercase tracking-wider mb-12 md:mb-16">
+        <h2 className="reveal-text font-['Melodrama',serif] text-[clamp(2rem,4.5vw,4rem)] text-black text-center uppercase tracking-wider mb-12 md:mb-16">
           OUR TRUSTED PARTNERS
         </h2>
 

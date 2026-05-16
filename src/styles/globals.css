@@ -31,3 +31,31 @@ html {
 
 /* Base font import */
 @import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600&display=swap');
+
+.reveal-text {
+  visibility: hidden;
+  display: inline-block;
+  white-space: normal;
+}
+
+.reveal-text .line {
+  display: inline-flex;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.reveal-text .words {
+  display: inline-flex;
+  white-space: nowrap;
+}
+
+.reveal-text .word,
+.reveal-text .hyphen,
+.reveal-text .whitespace {
+  display: inline-block;
+  white-space: pre;
+}
+
+.reveal-text .whitespace {
+  width: 0.25em;
+}

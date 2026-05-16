@@ -20,7 +20,7 @@ export default function WorkingHours() {
       <div className="max-w-[1440px] mx-auto px-4 md:px-8 lg:px-[90px]">
         {/* Header */}
         <div className="flex flex-col md:flex-row items-start md:items-end justify-between border-b border-[#e6e6dc] pb-4 mb-8 md:mb-12 gap-4">
-          <h2 className="font-['Melodrama',serif] text-[clamp(2rem,4.5vw,4rem)] text-black uppercase tracking-wider">
+          <h2 className="reveal-text font-['Melodrama',serif] text-[clamp(2rem,4.5vw,4rem)] text-black uppercase tracking-wider">
             WORKING HOURS
           </h2>
           <p className="font-['Jost',sans-serif] text-sm md:text-base text-[#666] max-w-[500px]">

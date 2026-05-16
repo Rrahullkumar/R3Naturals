@@ -93,8 +93,7 @@ export default function BeautyJournal() {
       className="relative w-full h-screen overflow-hidden bg-white flex flex-col justify-center"
     >
       <div className="max-w-[1440px] mx-auto w-full px-4 md:px-8 lg:px-[90px] mb-10 md:mb-14">
-        <h2 className="font-['Melodrama',serif] text-[clamp(2rem,4.5vw,4rem)] text-black uppercase tracking-wider">
-          OUR BEAUTY JOURNAL
+        <h2 className="reveal-text font-['Melodrama',serif] text-[clamp(2rem,4.5vw,4rem)] text-black uppercase tracking-wider">
         </h2>
       </div>
 

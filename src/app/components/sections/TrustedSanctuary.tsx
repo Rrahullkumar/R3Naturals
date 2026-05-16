@@ -55,7 +55,7 @@ export default function TrustedSanctuary() {
           <div className="flex-1 max-w-[700px]">
             {/* Vertical divider + Heading */}
             <div className="pl-6 border-l-2 border-[#fffef6] mb-8">
-              <h2 className="font-['Melodrama',serif] text-[clamp(2rem,5vw,4rem)] text-white uppercase tracking-wider leading-[1.15]">
+              <h2 className="reveal-text font-['Melodrama',serif] text-[clamp(2rem,5vw,4rem)] text-white uppercase tracking-wider leading-[1.15]">
                 YOUR TRUSTED<br />
                 SANCTUARY FOR<br />
                 WELLNESS

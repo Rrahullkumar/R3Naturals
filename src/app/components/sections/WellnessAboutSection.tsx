@@ -74,10 +74,10 @@ export default function WellnessAboutSection({
           {/* Left Content */}
           <div className="flex flex-col justify-center space-y-8">
             <div>
-              <h2 className="text-3xl sm:text-4xl md:text-5xl font-['Melodrama:Regular',sans-serif] uppercase text-black mb-4 tracking-[0.5px] leading-tight">
+              <h2 className="reveal-text text-3xl sm:text-4xl md:text-5xl font-['Melodrama:Regular',sans-serif] uppercase text-black mb-4 tracking-[0.5px] leading-tight">
                 {heading}
               </h2>
-              <h3 className="text-2xl sm:text-3xl md:text-4xl font-['Melodrama:Regular',sans-serif] uppercase text-black tracking-[0.5px]">
+              <h3 className="reveal-text text-2xl sm:text-3xl md:text-4xl font-['Melodrama:Regular',sans-serif] uppercase text-black tracking-[0.5px]">
                 {subheading}
               </h3>
             </div>

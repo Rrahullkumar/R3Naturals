@@ -1,3 +1,26 @@
 @import './fonts.css';
 @import './tailwind.css';
 @import './theme.css';
+
+.reveal-text {
+  display: inline-block;
+  overflow: hidden;
+  visibility: hidden;
+}
+
+.reveal-text .line {
+  display: block;
+  overflow: hidden;
+}
+
+.reveal-text .words {
+  display: inline-flex;
+  flex-wrap: wrap;
+}
+
+.reveal-text .line .word,
+.reveal-text .line .hyphen,
+.reveal-text .line .whitespace {
+  display: inline-block;
+  white-space: pre;
+}

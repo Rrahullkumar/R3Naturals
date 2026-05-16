@@ -19,7 +19,7 @@ export default function GreenSection() {
             <span className="font-['Jost',sans-serif] text-sm uppercase text-[#585e48] tracking-widest mb-4 block">
               Natural Ingredients
             </span>
-            <h2 className="font-['Melodrama',serif] text-[clamp(1.8rem,3.5vw,2.8rem)] text-black uppercase tracking-wider leading-tight mb-6">
+            <h2 className="reveal-text font-['Melodrama',serif] text-[clamp(1.8rem,3.5vw,2.8rem)] text-black uppercase tracking-wider leading-tight mb-6">
               PURE ORGANIC WELLNESS FROM NATURE
             </h2>
             <p className="font-['Jost',sans-serif] text-base text-[#666] leading-relaxed mb-8 max-w-[500px]">

@@ -85,7 +85,7 @@ export default function SpaServicesSection() {
     <section id="spa-services-section" className="w-full bg-white py-16 md:py-24 lg:py-[180px]">
       <div className="max-w-[1440px] mx-auto px-4 md:px-8 lg:px-[90px]">
         {/* Section Title */}
-        <h2 className="font-['Melodrama',serif] text-[clamp(2rem,4vw,3.1rem)] text-black uppercase tracking-wider mb-12 md:mb-16">
+        <h2 className="reveal-text font-['Melodrama',serif] text-[clamp(2rem,4vw,3.1rem)] text-black uppercase tracking-wider mb-12 md:mb-16">
           SPA SERVICES
         </h2>
 
