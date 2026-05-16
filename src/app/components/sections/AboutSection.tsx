@@ -20,7 +20,7 @@ export default function AboutSection() {
         <div className="flex flex-col lg:flex-row gap-10 lg:gap-16 mb-16 lg:mb-24">
           {/* Left Column */}
           <div className="flex-1">
-            <h2 className="reveal-text font-['Melodrama',serif] text-[clamp(2rem,4.5vw,3.4rem)] text-black uppercase tracking-wider leading-[1.18] mb-6">
+            <h2 className="font-['Melodrama',serif] text-[clamp(2rem,4.5vw,3.4rem)] text-black uppercase tracking-wider leading-[1.18] mb-6">
               WHERE WELLNESS MEETS SERENITY<br className="hidden md:block" /> TO CREATE YOUR ESCAPE
             </h2>
 
